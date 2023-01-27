@@ -1,0 +1,26 @@
+html {
+    scroll-behavior: smooth;
+}
+@media (min-width: 992px) {
+    .c-layout-header .c-brand {
+        margin: 25px 0 17px 0; }
+}
+.c-mobile-logo {
+    width:50px;
+}
+.c-desktop-logo-inverse {
+    margin: -15px 0 17px 0;
+}
+.logo-color {
+    color:#E92404;
+    text-shadow: 2px 2px 0 rgba(117, 2, 26, 0.8);
+}
+.c-bg-red-1 {
+    background-color: #E92404 !important;
+}
+.c-content-tile-1 .c-tile-content.c-arrow-red-2.c-arrow-right{
+    border-left-color: #E92404;
+}
+.content-center {
+    text-align: center;
+}
